@@ -1,9 +1,3 @@
-//
-//  CachedDataApp.swift
-//  CachedData
-//
-//  Created by Oskar Emilsson on 2025-03-10.
-//
 
 import SwiftUI
 

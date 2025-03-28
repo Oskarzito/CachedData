@@ -40,11 +40,6 @@
 			path = CachedDataTests;
 			sourceTree = "<group>";
 		};
-		E89D21642D7EFCB10046B722 /* CachedDataUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = CachedDataUITests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,7 +72,6 @@
 			children = (
 				E89D21492D7EFCB00046B722 /* CachedData */,
 				E89D215A2D7EFCB10046B722 /* CachedDataTests */,
-				E89D21642D7EFCB10046B722 /* CachedDataUITests */,
 				E89D21482D7EFCB00046B722 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -152,9 +146,6 @@
 			);
 			dependencies = (
 				E89D21632D7EFCB10046B722 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				E89D21642D7EFCB10046B722 /* CachedDataUITests */,
 			);
 			name = CachedDataUITests;
 			packageProductDependencies = (
@@ -396,6 +387,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"CachedData/Preview Content\"";
+				DEVELOPMENT_TEAM = 9JG3D6BYC9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -424,6 +416,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"CachedData/Preview Content\"";
+				DEVELOPMENT_TEAM = 9JG3D6BYC9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
